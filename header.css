@@ -1,0 +1,105 @@
+.fab {
+    padding: 8px;
+    font-size: 30px;
+    width: 32px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+.fa-facebook-f {
+    color: white;
+}
+.fa-twitter {
+    
+    color: white;
+}
+.fa-pinterest {
+    color: white;
+}
+.fa-instagram {
+    
+    color: white;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    width: 1170px;
+    height: 0 auto;
+}
+
+nav{
+    background-color: blue;
+    height: 60px;
+    margin-top: 2px;
+}
+
+header{  
+    position: relative;
+    background-color: white;
+    padding: .0.5px;
+    margin-left: 110px;
+    font-size: 20px;
+    margin-bottom: 0%;
+}
+.btn-primary{
+    font-size: 18px;
+    padding: 14px 30px;
+    background-color: blue;
+     border: none;
+     border-radius: 50px;
+     cursor: pointer;
+     transition: all 0.3s ease 0s;
+
+}
+button:hover{
+    background-color: rgba(red, green, blue, alpha);
+}
+.resim{
+    width: 100%;
+}
+
+.logo{
+
+    padding-top:6px ;
+    float: left;
+}
+
+.yazı{
+    padding-top: 10px;
+    padding-left: 50%;
+}
+
+.menu , .socialmedia{
+      list-style-type: none;
+      margin: 0px;
+      padding: 0px;
+}
+.menu li{
+    float: left;
+    color: white;
+    margin-right: 10px;
+}
+
+.socialmedia a{
+    float: right;
+}
+
+.menu li a , .socialmedia a{
+    display: block;
+    color:white;
+    text-decoration: none;
+    height: 50px;
+    line-height: 60px;
+    padding: 0px 10px;
+
+}
+.menu li a:hover , .socialmedia a:hover{
+    background: blue;
+}
+.kutuici{
+    padding-left: 30px;
+    color: white;
+}
